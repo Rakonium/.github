@@ -55,6 +55,7 @@ L'équipe assure la gestion, le développement et l'administration du serveur.
 |:---|:---|
 | 👑 Owner | **MarkisRK** |
 | 🛡️ Admin | **Zyumie** |
+| ⚔️ Modo | **Moj1to**, **BigshotFr** |
 
 > La composition de l'équipe peut évoluer au fil du développement du serveur.
 
