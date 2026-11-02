@@ -1,6 +1,3 @@
-
-
-```md
 # ⚔️ RAKONIUM
 
 <div align="center">
@@ -94,5 +91,3 @@ Les règles complètes et les consignes de modération sont disponibles sur notr
   © Rakonium — Tous droits réservés.
 
 </div>
-```
-
